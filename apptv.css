@@ -1,21 +1,24 @@
 .background {
     /*background: center no-repeat url(background.png);*/
-    background: linear-gradient(to bottom, #030303, #094737);
+    background: linear-gradient(to bottom, #003543, #2c7272);
   }
   
+  /*  ES EL QUE SALE SOLO AL PRINCIPIO, AL CONECTAR EL CAST  */
   .logo {
-    background-image: url("https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2ziqy75plqAmH8ce3AxvA14CDvnTMJckhyphenhyphendTISclChtq3u15Juag4B9cilQWehpxNVKuKE-FZM-OtsBsU2p9MhRnp9QjCdHDrWeorvZakH2K6gBmEET1Y2vDAcxzYgc38TdgV8mcazQ_OKU4VcRIwxlLE4FbbnSb30ZWDgDvR0YRD8-wQ3ebZUzK_A18/s192/ic_launcher.png");
+    background-image: url("https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNCtEOpa7tM2P2sSndOylaT6KVOLUqQ1wsmIZUQuWKI6SFEqaoCUP_aUcSHHMIsN3ogRkHI91GYU7lBy4FYGh5Q1vW-RiyOj7Yq3LuDozXxFCWLGGVmqerP8f5p-9gqMa8sskwHnA7ZVpIm2dnJSaXfR3eGRISTDD5Dp3UInPGHiIOQ_ui8NVPhe_2sFQ/w503-h252/logoCast.webp");
   }
   
   .progressBar {
-    background-color: rgb(#A5F1E2);
+    background-color: #A5F1E2;
   }
   
+  /*  ES EL QUE SALE DESPUES DEL LOGO Y APARECE SIEPRE  */
   .splash {
-    background-image: url("https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFfiwMBhi2Dqz02aasuCFygf064nlOGH74etIHaj1OWFBH4LpgLrPXFJy-fKp0TZJusf7Zgz24tgRhMcMiBImoNoiivzC8BUt9eW1Z4KQNDnaPAase6n6ZUU7WSFmuI7zTXFIqSN5wATfakJTQxUzRBKrsKAXgOuns2aK2_SYfi683cJQQyA3FFaFxV4o/s320/botvplaylogo.webp");
+    background-image: url("https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwk_M-bSHfU7y55WW5pAsUagtWbYwf-uaYceZD9wDYap31FATdg7C-X5lyoF7lQXG6AtBKWwkOVViipannNPXdN7GDZuGiutlX5RmiXJ_YlrhrkPwrC4cWTYwz6LVnAQFGeWxM3t9iAEcVPfSQEX8eDJHlATLN2owbuIzape97bENPd_4p817U301Bnx0/w497-h220/splashCasttv.webp");
   }
   
+  /*  ES EL QUE SALE DESPUES DEL SPLASH A LA DERECHA EN MINIATURA (ACTUALMENTE NO SE APRECIA)  */
   .watermark {
-    background-image: url("https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgB-fPb3JOXfQ8sAS8rv05b5B2ui9PC7X5JYcbKqFK5crEvLYoHC9I3kBrKR7KEvE2Mv8Glgfix9pbBeN1SAErFeCPshxFBVQwyJ4a_fRY4DmJImO8lNZXhvP74JqrVscWnxmML0N9YnsU3hnSSqGOdE4bSx-Dvi7zOy7fFZkoIwsQFQJEBT5Xg5NlONpI/s320/playtvbo.webp");
+    background-image: url("https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2ziqy75plqAmH8ce3AxvA14CDvnTMJckhyphenhyphendTISclChtq3u15Juag4B9cilQWehpxNVKuKE-FZM-OtsBsU2p9MhRnp9QjCdHDrWeorvZakH2K6gBmEET1Y2vDAcxzYgc38TdgV8mcazQ_OKU4VcRIwxlLE4FbbnSb30ZWDgDvR0YRD8-wQ3ebZUzK_A18/s192/ic_launcher.png");
     background-size: 57px 57px;
   }
